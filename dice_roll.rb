@@ -4,5 +4,5 @@
 
 def roll
   di = (1..6)
-  puts di.rand
+  puts di.rand.Integer
 end
